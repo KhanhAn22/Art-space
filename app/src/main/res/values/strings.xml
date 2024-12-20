@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art_title">The Scream</string>
+    <string name="artist_name">Edvard Munch</string>
+    <string name="release_year">1893</string>
+    <string name="description">One of the most iconic images in art history.</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="art_creation_of_adam">The Creation Of Adam</string>
+    <string name="artist_michelangelo">Michelangelo</string>
+    <string name="art_mona_lisa">Mona Lisa</string>
+    <string name="artist_da_vinci">Leonardo da Vinci</string>
+</resources>
